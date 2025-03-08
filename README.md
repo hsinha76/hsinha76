@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Harish Sinha  
 
 ### Glad to see you here!  
-App development is my thing, especially on Android! I'm dedicated to delivering top-notch apps that meet industry standards. My superpower? UI/UX design, of course! My track record features social networks, real-time chats, and video streaming apps, all with thousands of downloads. Don't hesitate to shoot me a message on LinkedIn if you'd like to connect. Let's chat and make some app magic!" 🚀😎📲  
+I love building smooth, user-friendly Android apps with a strong focus on UI/UX. I've worked on wide variety of apps ranging from social networks, e-commerce, real-time chats, and video streaming apps with thousands of downloads. Always open to new challenges. 😎🚀
 
 ### Let's connect
 
